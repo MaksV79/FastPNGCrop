@@ -9,3 +9,5 @@ After starting the program, select the folder with PNG files. The first PNG file
  - If you want to re-select the selection area, press Esc. 
  - If the frame does not need to be cropped and want to go to the next file, press right cursor key. 
  - If the image is bad (blurry), click Delete, the file will be deleted (without confirmation).
+
+You can define default folder for folder selection dialog at startup via parameter in command line. Default folder c:\fakes\
